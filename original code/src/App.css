@@ -1,0 +1,92 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/*USER STYLE*/
+html,
+body {
+  height: 100%;
+}
+h1 {
+  padding-top: 50px;
+  text-align: 15px;
+}
+.logo-text {
+  display: none;
+  color: #fff;
+  padding-right: 5px;
+}
+.image__carousel {
+  max-height: 100vh;
+}
+.tab-container {
+  width: 100%;
+  max-width: 1110px;
+  margin-top: 85px;
+}
+.nav-item a {
+  color: #282c34!important;
+}
+.nav-item .active {
+  background-color: #282c34!important;
+  color: #fff!important;
+}
+.nav.nav-pills {
+  flex-direction: column;
+}
+.about__tab-img {
+  max-width: 850px;
+  max-height: 520px;
+}
+.list-group-item {
+  cursor: pointer;
+}
+
+
+/*MEDIA USER STYLE*/
+@media (min-width: 768px) {
+  .carousel-item>img {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) {
+  .logo-text {
+    display: block;
+  }
+}
