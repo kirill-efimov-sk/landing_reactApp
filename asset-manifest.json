@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fceb87e.chunk.css",
+    "main.js": "/static/js/main.6137cedc.chunk.js",
+    "main.js.map": "/static/js/main.6137cedc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1edad2dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1edad2dc.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5a985433.chunk.js": "/static/js/2.5a985433.chunk.js",
+    "static/js/2.5a985433.chunk.js.map": "/static/js/2.5a985433.chunk.js.map",
+    "static/js/3.0efe9c39.chunk.js": "/static/js/3.0efe9c39.chunk.js",
+    "static/js/3.0efe9c39.chunk.js.map": "/static/js/3.0efe9c39.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6fceb87e.chunk.css.map": "/static/css/main.6fceb87e.chunk.css.map",
+    "static/js/2.5a985433.chunk.js.LICENSE.txt": "/static/js/2.5a985433.chunk.js.LICENSE.txt",
+    "static/media/img_blog1.5da5a6c9.jpg": "/static/media/img_blog1.5da5a6c9.jpg",
+    "static/media/img_blog2.540b2d2c.jpg": "/static/media/img_blog2.540b2d2c.jpg",
+    "static/media/img_blog3.90f5c6f4.jpg": "/static/media/img_blog3.90f5c6f4.jpg",
+    "static/media/img_blog4.a9bb397d.jpg": "/static/media/img_blog4.a9bb397d.jpg",
+    "static/media/photo1.31fe05a3.jpeg": "/static/media/photo1.31fe05a3.jpeg",
+    "static/media/photo2.141acdb1.jpeg": "/static/media/photo2.141acdb1.jpeg",
+    "static/media/photo3.aa83ad60.jpeg": "/static/media/photo3.aa83ad60.jpeg",
+    "static/media/photo4.a62850f3.jpeg": "/static/media/photo4.a62850f3.jpeg",
+    "static/media/photo5.3de5cfac.jpeg": "/static/media/photo5.3de5cfac.jpeg",
+    "static/media/photographer1.dc2f2af4.jpeg": "/static/media/photographer1.dc2f2af4.jpeg",
+    "static/media/photographer2.58579549.jpeg": "/static/media/photographer2.58579549.jpeg",
+    "static/media/photographer3.cf84259c.jpeg": "/static/media/photographer3.cf84259c.jpeg",
+    "static/media/space.fec1b3bc.jpeg": "/static/media/space.fec1b3bc.jpeg",
+    "static/media/storm.78650ec8.jpeg": "/static/media/storm.78650ec8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1edad2dc.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5a985433.chunk.js",
+    "static/css/main.6fceb87e.chunk.css",
+    "static/js/main.6137cedc.chunk.js"
+  ]
+}
